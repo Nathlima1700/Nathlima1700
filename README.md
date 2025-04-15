@@ -18,6 +18,8 @@ Sou cientista com formação em **Biotecnologia** e **Mestrado em Patologia Mole
 onde eu possa aplicar minha bagagem científica para resolver problemas reais com dados.
 
 -Conexões inspiradoras com pessoas que também estão construindo coisas incríveis com dados. Vamos trocar ideias? 🚀
+
+
 ---
 
 ### 📫 Como falar comigo
