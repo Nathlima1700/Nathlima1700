@@ -14,10 +14,10 @@ Sou cientista com formação em **Biotecnologia** e **Mestrado em Patologia Mole
 
 ### 🔍 Estou em busca de...
 
-- Projetos colaborativos em **Ciência de Dados**, **Pesquisa de Mercado** ou **Análise Exploratória**
-- Vagas como Data Scientist
-- Networking com pessoas incríveis da comunidade de dados 🚀
+-Oportunidades profissionais como Cientista de Dados Júnior ou Analista de Dados,
+onde eu possa aplicar minha bagagem científica para resolver problemas reais com dados.
 
+-Conexões inspiradoras com pessoas que também estão construindo coisas incríveis com dados. Vamos trocar ideias? 🚀
 ---
 
 ### 📫 Como falar comigo
