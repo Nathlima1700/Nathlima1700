@@ -24,6 +24,6 @@ onde eu possa aplicar minha bagagem científica para resolver problemas reais co
 
 ### 📫 Como falar comigo
 
-- [LinkedIn](https://www.linkedin.com/in/nathlima1700/)  
+- [LinkedIn]([https://www.linkedin.com/in/nathlima1700/](https://www.linkedin.com/in/nathalia-lima-114486192/))  
 - Email: nathfreitaslima@gmail.com 
 - GitHub: [@Nathlima1700](https://github.com/Nathlima1700)
